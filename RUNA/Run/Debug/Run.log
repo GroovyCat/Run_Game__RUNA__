@@ -1,0 +1,17 @@
+﻿  login.c
+c:\users\wkddn\desktop\run_a\run\run\login.c(217): warning C4098: 'serch': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(248): warning C4098: 'serch': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(257): warning C4098: 'serch': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(266): warning C4047: '함수': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(266): warning C4024: 'PlaySoundA': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(362): warning C4098: 'link_start': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(375): warning C4098: 'link_start': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(392): warning C4098: 'link_Sort': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(425): warning C4033: 'DeleteDuplicates'은(는) 값을 반환해야 합니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(436): warning C4033: 'DeleteDuplicates'은(는) 값을 반환해야 합니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(451): warning C4033: 'print'은(는) 값을 반환해야 합니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(485): warning C4033: 'link_txt'은(는) 값을 반환해야 합니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(440): warning C4716: 'DeleteDuplicates': 값을 반환해야 합니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(469): warning C4715: 'print': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\wkddn\desktop\run_a\run\run\login.c(508): warning C4716: 'link_txt': 값을 반환해야 합니다.
+  Run.vcxproj -> C:\Users\wkddn\Desktop\Run_a\Run\Debug\Run.exe

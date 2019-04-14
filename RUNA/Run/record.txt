@@ -1,0 +1,3 @@
+NickName: test2	 PW: 1	 SCORE: 4
+NickName: gogo	 PW: ton	 SCORE: 3
+NickName: test	 PW: 1	 SCORE: 2
